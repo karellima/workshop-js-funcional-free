@@ -56,7 +56,7 @@ E funções importantes como:
 - apply
 - call
 
-Para criarmos uma funçõa no JavaScript é muito simples, precisamos apenas utilizar a palavra ´function´:
+Para criarmos uma função no JavaScript é muito simples, precisamos apenas utilizar a palavra ´function´:
 
 ![Homer fazendo Doh](https://cldup.com/CVvUx6Uswo.gif)
 
